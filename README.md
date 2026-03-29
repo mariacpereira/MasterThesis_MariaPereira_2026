@@ -61,5 +61,5 @@ MasterThesis_MariaPereira_2026/
 │   ├── 01_governance_EU27.ipynb
 │   ├── 02_data_understanding_EDA.ipynb
 │   └── ...
-└── data/          ← download from World Bank (not included)
+└── raw_data/      ← raw data from World Bank
 ```
