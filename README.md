@@ -1,5 +1,6 @@
 # Boosting ESG Governance Analysis
-### Explaining Typologies and Transitions in the European Union
+### Explaining Typologies and Transitions in the European Union through Machine Learning 
+
 
 **Author:** Maria Cristino Pereira  
 **Degree:** MSc Data Science and Advanced Analytics — Business Analytics  
